@@ -1,1 +1,3 @@
-# Hello. This is a 42 subject "miniRT"
+# miniRT
+## Hello. This is a 42 subject "miniRT"
+
